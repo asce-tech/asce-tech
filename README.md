@@ -11,11 +11,10 @@ Passionate about building secure systems, automating detection, and solving real
 To showcase hands-on cybersecurity projects focused on SIEM deployment, intrusion detection, and threat response. Passionate about building tools, automating security workflows, and continuously learning to strengthen cyber defense systems.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Intrusion Detection and Log Analysis          | <a href="https://github.com/asce-tech/intrusion-Detection">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -46,5 +45,4 @@ To showcase hands-on cybersecurity projects focused on SIEM deployment, intrusio
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Intrusion Detection 
