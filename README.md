@@ -14,7 +14,7 @@ To showcase hands-on cybersecurity projects focused on SIEM deployment, intrusio
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Intrusion Detection and Log Analysis          | <a href="https://github.com/asce-tech/intrusion-Detection">Detection Lab</a>|
+| Intrusion Detection and Log Analysis          | <a href="https://github.com/asce-tech/intrusion-Detection"> Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
