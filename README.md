@@ -73,11 +73,16 @@ To showcase hands-on cybersecurity projects focused on SIEM deployment, intrusio
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
-### Network tools 
+### Sec tools 
 <p>
 <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?&style=flat-square&logo=Wireshark&logoColor=white"/>
 <img alt="Suricata" src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=flat-square&logo=https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-R.jpg&logoColor=white"/>
 <img alt="Zeek" src="https://img.shields.io/badge/-Zeek-777BB4?&style=flat-square&logo=Zeek&logoColor=white"/>
+<img alt="burpsuite" src="https://img.shields.io/badge/-burpsuite-777BB4?&style=flat-square&logo=burpsuite&logoColor=white"/>
+<img alt="metasploit" src="https://img.shields.io/badge/-metasploit-777BB4?&style=flat-square&logo=metasploit&logoColor=white"/>
+<img alt="Nikto" src="https://img.shields.io/badge/-Nikto-EF3B2D?&style=flat-square&logo=https://suricata.io/wp-content/uploads/2023/09/Logo-Nikto-vert-R.jpg&logoColor=white"/>
+<img alt="Nessus" src="https://img.shields.io/badge/-Nessus-1679A7?&style=flat-square&logo=Nessus&logoColor=white"/>
+<img alt="OpenVAS" src="https://img.shields.io/badge/-OpenVAS-EF3B2D?&style=flat-square&logo=https://suricata.io/wp-content/uploads/2023/09/Logo-OpenVAS-vert-R.jpg&logoColor=white"/>
 </p> 
 
 ### SIEM
@@ -85,6 +90,10 @@ To showcase hands-on cybersecurity projects focused on SIEM deployment, intrusio
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Securityonion-005571?&style=for-the-badge&logo=Securityonion&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure-005571?&style=for-the-badge&logo=Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-000000?&style=for-the-badge&logo=Snort&logoColor=white" />
+    
 </div>
 
 <img src="/Cool-things/line.gif"> 
