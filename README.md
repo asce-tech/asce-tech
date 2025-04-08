@@ -1,8 +1,11 @@
-## Hi there 👋 I'm Jagadeesh 
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Jagadeesh</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jagadeesh-varma-kakarlapudi/, mailto:jagadeeshvarmasce@gmail.com">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/jagadeesh-varma-kakarlapudi/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="mailto:jagadeeshvarmasce@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
@@ -21,15 +24,46 @@ To showcase hands-on cybersecurity projects focused on SIEM deployment, intrusio
 |-----------------------------------------------|----------------------------|
 | Intrusion Detection and Log Analysis          | <a href="https://github.com/asce-tech/intrusion-Detection"> Detection Lab</a>|
 
-## Tech
-<p>
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="" src="" />
+<p align="center">
+  <img src="/assets/snake.svg">             
+  <img src="/assets/line.gif">             
 </p>
+
+
+## 🛠 &nbsp;Tech Stack:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=anaconda" height="40"/>
+  <img src="https://skillicons.dev/icons?i=arch" height="40"/>
+  <img src="https://skillicons.dev/icons?i=arduino" height="40"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="40"/>
+  <img src="https://skillicons.dev/icons?i=elasticsearch" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ai" height="40"/>
+  <img src="https://skillicons.dev/icons?i=kali" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=powershell" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py" height="40"/>
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40"/>
+  <img src="https://skillicons.dev/icons?i=windows" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vim" height="40"/>
+  <img src="https://skillicons.dev/icons?i=debian" height="40"/>
+</div> 
+
+### 💻 &nbsp;Languages & libraries
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ### Network tools 
 <p>
@@ -46,4 +80,17 @@ To showcase hands-on cybersecurity projects focused on SIEM deployment, intrusio
 </div>
 
 ## Projects
-- Intrusion Detection 
+- Intrusion Detection
+
+# 📈 Statistics 📈
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshvarma&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
+<p style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100" />
+</p>
+
