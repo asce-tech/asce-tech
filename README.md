@@ -3,11 +3,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jagadeesh-varma-kakarlapudi/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
   <a href="mailto:jagadeeshvarmasce@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
 </p>
+
 
 🔐 Cybersecurity Grad Student | Focused on SOC, Threat Detection, and Incident Response
 Hands-on with SIEM tools (Splunk, Security Onion), IDS (Snort), and Vulnerability Assessment (Nessus, OpenVAS).
