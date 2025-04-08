@@ -19,17 +19,26 @@ Passionate about building secure systems, automating detection, and solving real
 To showcase hands-on cybersecurity projects focused on SIEM deployment, intrusion detection, and threat response. Passionate about building tools, automating security workflows, and continuously learning to strengthen cyber defense systems.
 
 ## Skills
+<div align="center">
+  <table>
+    <tr>
+      <th>Skill</th>
+      <th>Associated Project</th>
+    </tr>
+    <tr>
+      <td>Intrusion Detection and Log Analysis</td>
+      <td><a href="https://github.com/asce-tech/intrusion-Detection">Detection Lab</a></td>
+    </tr>
+  </table>
+</div>
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Intrusion Detection and Log Analysis          | <a href="https://github.com/asce-tech/intrusion-Detection"> Detection Lab</a>|
 
 <p align="center">
-  <img src="/assets/snake.svg">             
-  <img src="/assets/line.gif">             
+  <img src="/Cool-things/snake.svg">             
+  <img src="/Cool-things/line.gif">             
 </p>
 
-## 🛠 &nbsp;Tech Stack:
+## 🛠 &nbsp;Tech Stuff
 <div align="left">
   <img src="https://skillicons.dev/icons?i=anaconda" height="40"/>
   <img src="https://skillicons.dev/icons?i=arch" height="40"/>
@@ -78,14 +87,24 @@ To showcase hands-on cybersecurity projects focused on SIEM deployment, intrusio
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Projects
-- Intrusion Detection
+<img src="/Cool-things/line.gif"> 
 
-# 📈 Statistics 📈
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshvarma&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asce-tech&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asce-tech&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" alt="Top Languages" width="45%" />
+  <br><br>
 </p>
 
+  
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
+
+<p align="center"
+  
+[![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/asce.tech) ![](https://komarev.com/ghpvc/?username=asce-tech&color=brightgreen)
+
+</p>
 
 <p style="text-align: center;">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
