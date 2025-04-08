@@ -29,7 +29,6 @@ To showcase hands-on cybersecurity projects focused on SIEM deployment, intrusio
   <img src="/assets/line.gif">             
 </p>
 
-
 ## 🛠 &nbsp;Tech Stack:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=anaconda" height="40"/>
