@@ -1,10 +1,8 @@
 ## Hi there 👋 I'm Jagadeesh 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jagadeesh-varma-kakarlapudi/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  <a href="mailto:jagadeeshvarmasce@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="https://www.linkedin.com/in/jagadeesh-varma-kakarlapudi/, mailto:jagadeeshvarmasce@gmail.com">
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
   </a>
 </p>
 
