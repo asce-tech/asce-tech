@@ -96,7 +96,7 @@ Passionate about building secure systems, automating detection, and solving real
 </div>
 
 <img src="/Cool-things/line.gif"> 
-<p align="center">
+<p align="left">
   
  ![Asce-tech](https://github-readme-stats.vercel.app/api?username=asce-tech&show_icons=true&theme=tokyonight&cache_seconds=1800)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asce-tech&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&cache_seconds=1800" alt="Top Languages" width="45%" />
