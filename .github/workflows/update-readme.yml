@@ -1,0 +1,23 @@
+name: Update GitHub Stats Cache
+
+on:
+  schedule:
+    - cron: '0 */1 * * *'  # Runs every 1 hours
+  workflow_dispatch:       # Allows manual run from Actions tab
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update version number to refresh cache
+        run: |
+          V=$RANDOM
+          sed -i "s/v=[0-9]\+/v=$V/g" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'actions@github.com'
+          git diff --quiet || (git commit -am "🔄 Update stats cache buster" && git push)
