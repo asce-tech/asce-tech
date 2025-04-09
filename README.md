@@ -102,9 +102,8 @@ To showcase hands-on cybersecurity projects focused on SIEM deployment, intrusio
 <img src="/Cool-things/line.gif"> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asce-tech&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asce-tech&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" alt="Top Languages" width="45%" />
-  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=asce-tech&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&v=1" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asce-tech&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&v=1" alt="Top Languages" width="45%" />
 </p>
 
   
