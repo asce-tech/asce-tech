@@ -16,10 +16,6 @@ Hands-on with SIEM tools (Splunk, Security Onion), IDS (Snort), and Vulnerabilit
 Passionate about building secure systems, automating detection, and solving real-world security challenges.
 
 
-## Objective
-
-To showcase hands-on cybersecurity projects focused on SIEM deployment, intrusion detection, and threat response. Passionate about building tools, automating security workflows, and continuously learning to strengthen cyber defense systems.
-
 ## Skills
 <div align="center">
   <table>
