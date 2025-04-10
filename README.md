@@ -100,9 +100,13 @@ Passionate about building secure systems, automating detection, and solving real
   
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asce-tech&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" style="display: inline-block; vertical-align: top; width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asce-tech&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&cache_seconds=1800" alt="Top Languages" style="display: inline-block; vertical-align: top; width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asce-tech&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&cache_seconds=1800" alt="Top Languages" style="display: inline-block; vertical-align: top; width: 45%;" /> 
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fasce-tech" alt="Public Repos"/>
+  <img src="https://komarev.com/ghpvc/?username=asce-tech&color=brightgreen" alt="Profile Views"/>
+</p>
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
@@ -110,7 +114,8 @@ Passionate about building secure systems, automating detection, and solving real
 
 <p align="center"
   
-[![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/asce.tech) ![](https://komarev.com/ghpvc/?username=asce-tech&color=brightgreen)
+[![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/asce.tech)
+
 
 </p>
 
