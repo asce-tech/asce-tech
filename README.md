@@ -20,12 +20,12 @@ Passionate about building secure systems, automating detection, and solving real
 <div align="center">
   <table>
     <tr>
-      <th>Skill</th>
-      <th>Associated Project</th>
+      <th>Project Name</th>
+      <th>Info</th>
     </tr>
     <tr>
-      <td>Intrusion Detection and Log Analysis</td>
-      <td><a href="https://github.com/asce-tech/intrusion-Detection">Detection Lab</a></td>
+      <td><a href="https://github.com/asce-tech/intrusion-Detection">Intrusion Detection and Log Analysis</a></td>
+      <td>Network intrusion detection with UNSW NB15 dataset</td>
     </tr>
   </table>
 </div>
