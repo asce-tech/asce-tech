@@ -16,18 +16,14 @@ Hands-on with SIEM tools (Splunk, Security Onion), IDS (Snort), and Vulnerabilit
 Passionate about building secure systems, automating detection, and solving real-world security challenges.
 
 
-## Skills
+## Projects
 <div align="center">
-  <table>
-    <tr>
-      <th>Project Name</th>
-      <th>Info</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/asce-tech/intrusion-Detection">Intrusion Detection and Log Analysis</a></td>
-      <td>Network intrusion detection with UNSW NB15 dataset</td>
-    </tr>
-  </table>
+
+| Project Name                                         | Description                                                   |
+|------------------------------------------------------|---------------------------------------------------------------|
+| [Intrusion Detection and Log Analysis](https://github.com/asce-tech/intrusion-Detection)                 | Network intrusion detection with UNSW NB15 dataset      |
+| [Snort NIDS](https://github.com/asce-tech/Snort-detection-system-)        | Using Snort to create rules to detect and generate alerts whenever there is a matching packet. |
+
 </div>
 
 
