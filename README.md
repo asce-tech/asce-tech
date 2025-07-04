@@ -110,7 +110,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 
 <p style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /><br>
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="14" width="14" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100" />
 </p>
 
