@@ -91,9 +91,13 @@
 <p align="left">
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asce-tech&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" style="display: inline-block; vertical-align: top; width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asce-tech&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&cache_seconds=1800" alt="Top Languages" style="display: inline-block; vertical-align: top; width: 45%;" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=asce-tech&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asce-tech&layout=compact&theme=darcula&langs_count=6&hide=jupyter%20notebook,tex,css,php" />
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fasce-tech" alt="Public Repos"/>
